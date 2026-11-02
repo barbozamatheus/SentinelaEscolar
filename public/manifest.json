@@ -1,0 +1,10 @@
+{
+  "name": "Sentinela Escolar — Gestão de Frequência Municipal",
+  "short_name": "Sentinela Escolar",
+  "description": "Sistema Offline-First de Controle de Frequência e Prevenção à Evasão Escolar",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary"
+}

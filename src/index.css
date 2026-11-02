@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@media print {
+  header,
+  nav,
+  button,
+  select,
+  input {
+    display: none !important;
+  }
+  body {
+    background: #ffffff !important;
+  }
+}
